@@ -1,4 +1,4 @@
-# readme.md
+# stat184_finalproject
 R code for my STAT 184 final project 
 
 library(data.table)
