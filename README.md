@@ -1,5 +1,6 @@
 # stat184_finalproject
-R code for my STAT 184 final project 
+R code for my STAT 184 final project; 
+the dataset can be found in the other files I have uploaded, there is a link
 
 library(data.table)
 library(car)
